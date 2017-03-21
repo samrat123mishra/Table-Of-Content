@@ -1,0 +1,15 @@
+{
+  "name": "table_of_content",
+  "version": "1.0.0",
+  "description": "This application is a simple demostration of JSON parsing",
+  "main": "toc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samrat mishra",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
+}

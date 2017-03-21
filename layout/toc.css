@@ -1,0 +1,36 @@
+body{
+  overflow-x:hidden;
+}
+.header {
+  background-color: #f44336;
+  padding: 30px 40px;
+  color: white;
+  text-align: center;
+}
+#main_list li:hover {
+  background: #ddd;
+}
+#main_list {
+  margin: 0;
+  padding: 0;
+   
+   
+}
+#main_list li{
+    list-style-type: none;
+   
+}
+.aside{
+    width:30%;
+    margin-left: 5%;
+   margin-top: 5%;
+}
+.content{
+    width:70%;
+    margin-left: 45%;
+   margin-top: -4%;
+}
+.ifrm{
+  position:fixed;
+  top:150px;
+}
